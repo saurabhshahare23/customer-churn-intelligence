@@ -1,0 +1,4 @@
+component,reason
+xgboost,XGBoost is not available in this environment: No module named 'xgboost'
+lightgbm,LightGBM is not available in this environment: No module named 'lightgbm'
+shap,SHAP is not available in this environment: No module named 'shap'

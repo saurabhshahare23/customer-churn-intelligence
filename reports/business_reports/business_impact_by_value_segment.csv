@@ -1,0 +1,5 @@
+customer_value_segment,customers,avg_churn_probability,monthly_revenue_at_risk,expected_clv_at_risk,net_monthly_recovery_potential,annualized_recovery_potential
+high_value,1506,0.23616674297385967,34830.16,2031413.55,6712.66,80551.92
+established_value,1354,0.30412234854257814,32538.19,1003124.27,6817.14,81805.68000000001
+emerging_value,1310,0.2685684544821079,22240.5,289479.96,3655.75,43869.0
+low_value,1004,0.4566952863858849,20994.81,67704.53,2476.46,29717.52

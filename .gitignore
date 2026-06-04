@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local app/runtime files
+.streamlit/secrets.toml
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Keep processed analytics artifacts, but do not upload bulky raw source data.
+data/raw/*.csv
+
+# Temporary files
+tmp/
+temp/
+
+# Large generated processed artifact
+data/processed/customer_activity_cleaned.csv

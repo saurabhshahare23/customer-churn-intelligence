@@ -1,0 +1,8 @@
+primary_recommendation,customers,avg_churn_probability,monthly_revenue_at_risk,campaign_cost,net_monthly_recovery_potential,annualized_recovery_potential
+customer support escalation,1165,0.6291257552573428,53011.09,0.0,16577.81,198933.72
+monitor customer health,3427,0.13927826189359216,29801.89,0.0,1732.61,20791.32
+engagement campaign,141,0.5568367381936209,6634.08,352.5,1051.18,12614.16
+discount offer,117,0.8245566269313007,8017.3099999999995,1460.76,413.62,4963.44
+payment reminders,54,0.575535257933976,2685.92,54.0,398.34,4780.08
+loyalty rewards,67,0.5427439156849256,3351.09,495.58,147.02,1764.24
+onboarding assistance,203,0.6163919095987246,7102.28,2030.0,-658.57,-7902.84

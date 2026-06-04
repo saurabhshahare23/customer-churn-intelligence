@@ -1,0 +1,11 @@
+dataset,stage,row_count,column_count,duplicate_row_count,missing_cell_count
+telco,raw,7043,21,0,0
+telco,standardized_raw_columns,7043,21,0,0
+activity,raw,1067371,8,34335,247389
+activity,standardized_raw_columns,1067371,8,34335,247389
+support,raw,8469,17,0,19919
+support,standardized_raw_columns,8469,17,0,19919
+customers_cleaned,cleaned,7043,27,0,11
+customer_activity_cleaned,cleaned,1033036,17,0,239426
+support_interactions_cleaned,cleaned,8469,28,0,25619
+customer_identity_bridge,cleaned,30057,8,0,51794

@@ -1,0 +1,5 @@
+retention_priority,customers,avg_churn_probability,monthly_revenue_at_risk,estimated_net_mrr_impact,annualized_net_revenue_impact
+P0 critical,34,0.7510144670743716,2533.71,695.57,8346.84
+P1 high,1189,0.666438346037868,64968.02,15433.13,185197.56
+P2 medium,540,0.5402281538481907,13879.89,1828.27,21939.24
+P3 monitor,3411,0.13724498075364902,29222.04,1705.04,20460.48

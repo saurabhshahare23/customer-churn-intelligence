@@ -1,0 +1,4 @@
+churn_risk_segment,customers,avg_churn_probability,monthly_revenue_at_risk,estimated_net_mrr_impact,annualized_net_revenue_impact
+high risk,595,0.8049487462746218,36986.59,7608.25,91299.0
+low risk,3411,0.13724498075364902,29222.04,1705.04,20460.48
+medium risk,1168,0.5399900551063157,44395.03,10348.72,124184.64

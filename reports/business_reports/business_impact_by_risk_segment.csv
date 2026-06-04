@@ -1,0 +1,4 @@
+churn_risk_segment,customers,avg_churn_probability,monthly_revenue_at_risk,expected_clv_at_risk,net_monthly_recovery_potential,annualized_recovery_potential
+medium risk,1168,0.5399900551063157,44395.03,1468809.24,10348.72,124184.64
+high risk,595,0.8049487462746218,36986.59,556874.43,7608.25,91299.0
+low risk,3411,0.13724498075364897,29222.04,1366038.64,1705.04,20460.48

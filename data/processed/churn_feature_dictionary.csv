@@ -1,0 +1,15 @@
+feature_name,business_definition,feature_family
+inactivity_days,Days since the customer's last mapped activity event.,Behavioral recency
+engagement_score,"Weighted recency, frequency, and monetary activity score scaled from 0 to 1.",Engagement
+support_burden_score,"Composite score based on ticket volume, open tickets, critical issues, low satisfaction, and resolution time.",Support friction
+payment_risk_score,"Transparent score using electronic check, month-to-month contract, and paperless billing indicators.",Payment and contract risk
+complaint_frequency,"Share of support tickets that represent complaints, refund, cancellation, billing, or technical issues.",Complaint behavior
+avg_monthly_spend,"Historical total charges divided by tenure, with monthly charges used for zero-tenure customers.",Revenue
+customer_value_segment,Quartile segment based on estimated customer lifetime value.,Value segmentation
+recency_frequency_metrics,Weighted score combining activity recency and invoice frequency.,Behavioral RFM
+estimated_customer_lifetime_value,Monthly charges multiplied by tenure.,CLV indicator
+customer_health_score,"Composite health score combining engagement, support burden, payment risk, and tenure.",Customer health
+support_to_tenure_ratio,Support tickets normalized by customer tenure.,Support intensity
+complaints_per_tenure_month,Complaint ticket count normalized by customer tenure.,Complaint intensity
+return_rate,Share of activity lines marked as returns.,Activity quality
+monthly_spend_per_invoice,"Average monthly spend divided by invoice count, with fallback to average monthly spend.",Revenue engagement

@@ -1,0 +1,17 @@
+kpi,value,business_definition
+total_customers,7043.0,Count of cleaned customer records.
+churned_customers,1869.0,Customers with observed churn label.
+retained_customers,5174.0,Customers that have not churned.
+churn_rate_pct,26.54,Observed churned customers / total customers.
+retention_rate_pct,73.46,Observed retained customers / total customers.
+arpu_monthly_charges,64.76,Average monthly charge per customer.
+avg_total_charges,2283.3,Average historical charges per customer.
+avg_estimated_clv_indicator,2279.58,Monthly charges multiplied by tenure.
+monthly_revenue_at_risk,139130.85,Monthly recurring revenue tied to churned customers.
+active_customer_rate_pct,95.4,Customers with mapped activity records.
+avg_invoice_count,7.61,Average distinct invoices per customer.
+avg_net_activity_revenue,2699.73,Average mapped activity revenue per customer.
+support_customer_rate_pct,68.79,Customers with support interactions.
+avg_tickets_per_customer,1.2,Average support tickets per customer.
+open_ticket_rate_pct,67.3,Open tickets / all tickets.
+avg_satisfaction_rating,3.0,Average satisfaction among rated customers.

@@ -1,0 +1,11 @@
+kpi,value,business_definition
+customers_scored,7043.0,All customers scored by the saved churn model.
+active_customers_evaluated,5174.0,Customers eligible for retention actions.
+holdout_prediction_rows_loaded,1409.0,Rows loaded from model holdout prediction output.
+active_high_risk_customers,595.0,Active customers with churn probability >= 0.70.
+monthly_revenue_at_risk,110603.66,Probability-weighted monthly revenue exposure.
+annual_revenue_at_risk,1327243.92,Probability-weighted annual revenue exposure.
+customer_lifetime_value_at_risk,3391722.31,Probability-weighted CLV exposure.
+monthly_recovery_potential,24054.73,Estimated gross monthly revenue recoverable from recommended actions.
+net_monthly_recovery_potential,19662.01,Gross recovery less estimated action cost.
+annualized_net_recovery_potential,235944.12,Annualized net recovery potential.

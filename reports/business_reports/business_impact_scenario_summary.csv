@@ -1,0 +1,4 @@
+scenario,scenario_description,target_high_risk_pct,high_risk_pool_customers,customers_targeted,expected_customers_saved,retention_effectiveness_pct,monthly_revenue_at_risk_targeted,gross_monthly_revenue_saved,campaign_cost,net_monthly_revenue_saved,annualized_net_revenue_saved,customer_lifetime_value_protected,estimated_roi_pct
+Scenario A,Retain top 5% high-risk customers,0.05,595,30,8.58,28.6,2300.94,542.44,79.58,462.86,5554.32,1796.09,581.61
+Scenario B,Retain top 10% high-risk customers,0.1,595,60,17.0,28.33,4397.42,1057.96,182.08,875.9,10510.8,4800.22,481.07
+Scenario C,Retain top 20% high-risk customers,0.2,595,119,33.32,28.0,8473.25,2041.81,431.64,1610.21,19322.52,11793.7,373.05

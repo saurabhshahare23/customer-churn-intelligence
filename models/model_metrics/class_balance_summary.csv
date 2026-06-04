@@ -1,0 +1,4 @@
+churn_label,customer_count,customer_pct
+0,5174.0,73.46
+1,1869.0,26.54
+imbalance_ratio_majority_to_minority,2.7683,

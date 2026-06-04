@@ -30,3 +30,6 @@ temp/
 
 # Large generated processed artifact
 data/processed/customer_activity_cleaned.csv
+
+# Large generated processed artifact
+data/processed/customer_activity_cleaned.csv

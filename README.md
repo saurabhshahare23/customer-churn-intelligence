@@ -101,7 +101,7 @@ http://localhost:8501
 | Metric | Value |
 |---|---:|
 | Total Customers | 7,043 |
-| High-Risk Customers | 595 |
+| High-Risk Customers | 1,695 |
 | Monthly Revenue at Risk | 110,603.66 |
 | Estimated Monthly Recovery | 19,662.01 |
 

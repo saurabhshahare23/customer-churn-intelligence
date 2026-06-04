@@ -10,6 +10,18 @@ A simple end-to-end churn analytics project that predicts customer churn, recomm
 - Created retention recommendations and revenue impact summaries.
 - Added SQL queries and a Streamlit app for stakeholder reporting.
 
+
+
+##📊 Dashboard
+
+<img width="1914" height="933" alt="image" src="https://github.com/user-attachments/assets/b7e81592-9002-45a8-b9d4-ff4b675d0671" />
+
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/0d6f092a-0449-4dda-aafd-52a735876bf7" />
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/1b1414b1-6d9a-40cd-9948-48d57ddc773f" />
+
+
+
 ## 📊 Key Features
 
 - **Churn Prediction**
@@ -112,15 +124,6 @@ Customer churn directly affects revenue and customer lifetime value.
 This project helps identify customers who may leave, understand the main risk signals, and recommend practical retention actions.
 
 It also estimates revenue at risk so business teams can focus on the customers and campaigns that matter most.
-
-
-##📊 Dashboard
-
-<img width="1914" height="933" alt="image" src="https://github.com/user-attachments/assets/b7e81592-9002-45a8-b9d4-ff4b675d0671" />
-
-<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/0d6f092a-0449-4dda-aafd-52a735876bf7" />
-
-<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/1b1414b1-6d9a-40cd-9948-48d57ddc773f" />
 
 
 ## 🔮 Future Improvements
